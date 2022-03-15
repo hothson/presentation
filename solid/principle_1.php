@@ -105,3 +105,5 @@ $output = new SumCalculatorOutputter($areas);
 echo $output->JSON();
 echo("\n");
 echo $output->HTML();
+
+//php solid/principle_1.php
